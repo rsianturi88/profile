@@ -1,0 +1,154 @@
+body {
+	font: 16px/28px Helvetica, sans-serif;
+	background-color: #eaeaea;
+	background-image: url(img/geometric-leaves.png);
+	color: #333;
+}
+
+.container{
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+
+.header{
+	padding: 10px;
+
+}
+
+.header .judul{
+	font-size: 40px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.header ul li {
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: -3px;
+	margin: 0;
+	padding: 0;
+
+}
+
+.header a{
+	text-decoration: none;
+	color: Brown;
+	padding: 3px;
+
+}
+
+.header a:hover{
+	background-color: lightsalmon;
+	color: white;
+}
+
+#hero{
+	height: 280px;
+	background-image: url(img/hero.png);
+	background-size: cover;
+	background-position: 0 -220px;
+	border-top: 5px solid Brown;
+	border-bottom: 5px solid lightskyblue;
+	margin-bottom: 0px;
+}
+
+#hero1{
+	height: 280px;
+	background-image: url(img/hero1.png);
+	background-size: cover;
+	background-position: 0 -220px;
+	border-top: 5px solid Brown;
+	border-bottom: 5px solid lightskyblue;
+	margin-bottom: 0px;
+}
+
+#hero2{
+	height: 280px;
+	background-image: url(img/hero2.png);
+	background-size: cover;
+	background-position: 0 -220px;
+	border-top: 5px solid Brown;
+	border-bottom: 5px solid lightskyblue;
+	margin-bottom: 0px;
+}
+
+#hero3{
+	height: 280px;
+	background-image: url(img/hero3.png);
+	background-size: cover;
+	border-top: 5px solid Brown;
+	border-bottom: 5px solid lightskyblue;
+	margin-bottom: 0px;
+}
+
+#hero4{
+	height: 280px;
+	background-image: url(img/hero4.png);
+	background-size: cover;
+	background-position: 0 -220px;
+	border-top: 5px solid Brown;
+	border-bottom: 5px solid lightskyblue;
+	margin-bottom: 0px;
+}
+
+#hero5{
+	height: 280px;
+	background-image: url(img/hero5.png);
+	background-size: cover;
+	background-position: 0 -150px;
+	border-top: 5px solid Brown;
+	border-bottom: 5px solid lightskyblue;
+	margin-bottom: 0px;
+}
+
+#hero6{
+	height: 280px;
+	background-image: url(img/hero6.png);
+	background-size: cover;
+	background-position: 0 -220px;
+	border-top: 5px solid Brown;
+	border-bottom: 5px solid lightskyblue;
+	margin-bottom: 0px;
+}
+
+.content{
+	padding: 10px;
+}
+
+.content h2{
+	font-size: 28px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.content .penulis{
+	font-size: 11px;
+	margin-top: -5px;
+}
+
+.content .penulis a{
+	color: brown;
+	text-decoration: none;
+}
+
+.content .penulis a:hover{
+	background-color: lightsalmon;
+	color: white;
+}
+
+.content p{
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+
+.footer{
+	background-color: #333;
+	padding: 5px;
+}
+.footer .copy{
+	color: #eaeaea;
+	text-align: center;
+	font-size: 12 px;
+
+}
